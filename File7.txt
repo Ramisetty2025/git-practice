@@ -1,2 +1,2 @@
 Line1 
-This line iseEdited in Remote 
+This line edited in Remote 
